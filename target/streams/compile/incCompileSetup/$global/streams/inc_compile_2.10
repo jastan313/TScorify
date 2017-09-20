@@ -1,0 +1,311 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+23 items
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$1.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$2$$anonfun$apply$3.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$2.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$3.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$4$$anonfun$apply$4.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$4.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$5$$anonfun$apply$5.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$5.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$aggregateWordContained$1.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$convertFreq$1.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$convertFreq$2.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$convertFreq$3.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$convertFreq$4.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$convertFreq$5.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$main$1.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$main$2.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$main$3.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$main$4.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$mergeMaps$1$$anonfun$apply$2$$anonfun$apply$1.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$mergeMaps$1$$anonfun$apply$2.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$mergeMaps$1.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$.class
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify.class
+binary dependencies:
+3 items
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.1.jar
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> C:\Users\Jason\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+23 items
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$1
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$2
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$2$$anonfun$apply$3
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$3
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$4
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$4$$anonfun$apply$4
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$5
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$5$$anonfun$apply$5
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$aggregateWordContained$1
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$convertFreq$1
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$convertFreq$2
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$convertFreq$3
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$convertFreq$4
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$convertFreq$5
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$main$1
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$main$2
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$main$3
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$main$4
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$mergeMaps$1
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$mergeMaps$1$$anonfun$apply$2
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify$$anonfun$mergeMaps$1$$anonfun$apply$2$$anonfun$apply$1
+used names:
+166 items
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> !=
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> &&
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> *
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> +
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> +=
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> -
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> ->
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> /
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> <init>
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> ==
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> >
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> AnyRef
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Array
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> ArrayBuffer
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Boolean
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> ClassTag
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Double
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Files
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Int
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Long
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Map
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> None
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Option
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Ordering
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Paths
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Predef
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> SparkConf
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> SparkContext
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> String
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> System
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> TScorify
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Throwable
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Tuple2
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> Unit
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> _1
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> _2
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> abbrevName
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> aggregateWordContained
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> any2ArrowAssoc
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> apache
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> apply
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> args
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> arr
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> asInstanceOf
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> augmentString
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> cache
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> calcWordScoreTFIDF
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> canBuildFrom
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> charAt
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> choseInputDir
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> choseInputDir_=
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> choseOutputDir
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> choseOutputDir_=
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> code
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> collect
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> collection
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> concat
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> conf
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> conforms
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> contains
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> convertFreq
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> count
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> dir_name
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> exists
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> exit
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> exitApp
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> file
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> fileCount
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> fileFrequencies
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> fileFrequenciesCollected
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> fileKeywordsList
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> fileName
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> fileNamePattern
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> fileScores
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> filter
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> finalMap
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> foldLeft
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> foreach
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> format
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> get
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> getOrElse
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> groupBy
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> head
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> identity
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> idf
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> immutable
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> inputDirectory
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> inputDirectory_=
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> isEmpty
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> isInstanceOf
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> java
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> keyword
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> lang
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> length
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> lengthCompare
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> log
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> map
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> mapArr
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> mapValues
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> maps
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> matches
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> materializeClassTag
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> math
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> maxFreq
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> maxFrequencies
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> mergeMaps
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> midEllipsis
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> mutable
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> name
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> nanoTime
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> ne
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> nio
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> o1
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> o2
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> obj
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> opt
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> option
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> optionPattern1
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> optionPattern2
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> org
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> outputDirectory
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> outputDirectory_=
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> package
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> pair
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> pow
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> println
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> r
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> reduceLeft
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> refArrayOps
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> s
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> saveAsTextFile
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> sc
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> scala
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> setAppName
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> setLogLevel
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> shortenFileName
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> size
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> sortBy
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> spark
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> split
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> stop
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> substring
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> t0
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> tail
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> take
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> texts
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> tf
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> toDouble
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> toInt
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> toList
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> toLowerCase
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> toMap
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> totalDocs
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> totalFrequencies
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> unapplySeq
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> unary_!
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> unary_-
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> verbose
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> verbose_=
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> wholeTextFiles
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> word
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> wordContained
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> wordContainedCount
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> wordFreq
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> wordLength
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> x
+product stamps:
+23 items
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$1.class -> lastModified(1463123274387)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$2$$anonfun$apply$3.class -> lastModified(1463123274427)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$2.class -> lastModified(1463123274410)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$3.class -> lastModified(1463123274451)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$4$$anonfun$apply$4.class -> lastModified(1463123274490)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$4.class -> lastModified(1463123274472)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$5$$anonfun$apply$5.class -> lastModified(1463123274534)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$5.class -> lastModified(1463123274512)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$aggregateWordContained$1.class -> lastModified(1463123274551)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$convertFreq$1.class -> lastModified(1463123274569)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$convertFreq$2.class -> lastModified(1463123274590)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$convertFreq$3.class -> lastModified(1463123274611)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$convertFreq$4.class -> lastModified(1463123274640)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$convertFreq$5.class -> lastModified(1463123274657)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$main$1.class -> lastModified(1463123274714)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$main$2.class -> lastModified(1463123274735)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$main$3.class -> lastModified(1463123274762)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$main$4.class -> lastModified(1463123274789)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$mergeMaps$1$$anonfun$apply$2$$anonfun$apply$1.class -> lastModified(1463123274889)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$mergeMaps$1$$anonfun$apply$2.class -> lastModified(1463123274830)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$$anonfun$mergeMaps$1.class -> lastModified(1463123274806)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify$.class -> lastModified(1463123274359)
+C:\Users\Jason\Desktop\TScorify\target\scala-2.10\classes\TScorify.class -> lastModified(1463123274266)
+source stamps:
+1 items
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> hash(5bbdb216d78521a485bd050d0cacad2b727d856a)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar -> lastModified(1416181649216)
+C:\Users\Jason\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.1.jar -> lastModified(1456554749000)
+C:\Users\Jason\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar -> lastModified(1425002069000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Jason\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.1.jar -> org.apache.spark.SparkConf
+C:\Users\Jason\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.5.jar -> scala.Array$
+internal apis:
+1 items
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHALkZg2AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFoAA8d0AAZub3RpZnlzcQB+AAzDQs/odAAPZmlsZU5hbWVQYXR0ZXJuc3EAfgAMpL7PvXQADm9wdGlvblBhdHRlcm4xc3EAfgAMcfNuvnQABHdhaXRzcQB+AAyAIpCVdAAPc2hvcnRlbkZpbGVOYW1lc3EAfgAMRvkleHQADSRhc0luc3RhbmNlT2ZzcQB+AAxFv1/LdAAJbWVyZ2VNYXBzc3EAfgAM4RiC4XQAB3ZlcmJvc2VzcQB+AAzseGbmdAAGZXF1YWxzc3EAfgAMGREcX3QADGFzSW5zdGFuY2VPZnNxAH4ADPeu8n10AAhUU2NvcmlmeXNxAH4ADKUF8uB0AAxzeW5jaHJvbml6ZWRzcQB+AAwicsVKdAANY2hvc2VJbnB1dERpcnNxAH4ADIcaDCl0AA0kaXNJbnN0YW5jZU9mc3EAfgAMY3bkLXQACmFiYnJldk5hbWVzcQB+AAyATeEydAAHZXhpdEFwcHNxAH4ADGC9gPZ0AA5vcHRpb25QYXR0ZXJuMnNxAH4ADIUyd8N0AA9vdXRwdXREaXJlY3RvcnlzcQB+AAz/091adAAEbWFpbnNxAH4ADDCcR5V0AAtjb252ZXJ0RnJlcXNxAH4ADDJ7gbx0AAlub3RpZnlBbGxzcQB+AAxdO3mSdAAMaXNJbnN0YW5jZU9mc3EAfgAMPw8IG3QADmNob3NlT3V0cHV0RGlyc3EAfgAM6XsD/nQAAj09c3EAfgAMRYGcaHQADmlucHV0RGlyZWN0b3J5c3EAfgAMFF/4LnQABWNsb25lc3EAfgAMFPd1HnQAEmNhbGNXb3JkU2NvcmVURklERnNxAH4ADNjNY2d0AAh0b1N0cmluZ3NxAH4ADFw9P6l0AAIhPXNxAH4ADPkgnS10AAhnZXRDbGFzc3NxAH4ADGUBolp0AAJuZXNxAH4ADFqXtHV0ABZhZ2dyZWdhdGVXb3JkQ29udGFpbmVkc3EAfgAMkSJUOXQAAmVxc3EAfgAMtqZzNXQAAiMjc3EAfgAMJajvS3QACGZpbmFsaXplc3EAfgAMNX52wHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB2c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4Ae3NxAH4AdnVxAH4AWgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AYHEAfgBpdXEAfgBqAAAAAHNxAH4AbABxAH4AM3VxAH4AbgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB6dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AenNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHF0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIpbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHpzcQB+AIl0AAVBcnJheXEAfgCPdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIl0AAZTdHJpbmdzcQB+AI1zcQB+AJB1cQB+AJMAAAADc3EAfgCVdAAEamF2YXNxAH4AlXQABGxhbmdxAH4AmnNxAH4AdnVxAH4AWgAAAABzcQB+AHZ1cQB+AK4AAAACc3EAfgCJdAAGT2JqZWN0cQB+ALJzcQB+AIl0AANBbnlxAH4Aj3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUqPFLaHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADlDOlxVc2Vyc1xKYXNvblxEZXNrdG9wXFRTY29yaWZ5XHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRbvbIW14UhpIW9BQ0MrK0rcn2Fag==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Jason\Desktop\TScorify\src\main\scala\TScorify.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVKjSi/N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUM6XFVzZXJzXEphc29uXERlc2t0b3BcVFNjb3JpZnlcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVKjxS2h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUM6XFVzZXJzXEphc29uXERlc2t0b3BcVFNjb3JpZnlcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
